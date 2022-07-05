@@ -8,9 +8,8 @@ publishDir: docs
 languages:
     zh-tw:
         languageName: 中文
-        title: 有病呻吟
+        title: 曜多☀有病呻吟
         weight: 1
-        weight: 2
 
 # Change it to your Disqus shortname before using
 disqusShortname: hugo-theme-stack
@@ -38,7 +37,7 @@ params:
     favicon:
 
     footer:
-        since: 2020
+        since: 1997/02
         customText:
 
     dateFormat:
@@ -47,7 +46,7 @@ params:
 
     sidebar:
         emoji: ☀
-        subtitle: Lorem ipsum dolor sit amet, consectetur adipiscing elit.
+        subtitle: 病的不是世界，病的是我。
         avatar:
             enabled: true
             local: true
@@ -113,9 +112,9 @@ params:
 
         # See https://cactus.chat/docs/reference/web-client/#configuration for description of the various options
         cactus:
-            defaultHomeserverUrl: "https://matrix.cactus.chat:8448"
-            serverName: "cactus.chat"
-            siteName: "" # You must insert a unique identifier here matching the one you registered (See https://cactus.chat/docs/getting-started/quick-start/#register-your-site)
+            defaultHomeserverUrl: 'https://matrix.cactus.chat:8448'
+            serverName: 'cactus.chat'
+            siteName: '' # You must insert a unique identifier here matching the one you registered (See https://cactus.chat/docs/getting-started/quick-start/#register-your-site)
 
         giscus:
             repo:
@@ -172,7 +171,7 @@ params:
         toggle: true
 
         # Available values: auto, light, dark
-        default: auto
+        default: dark
 
     imageProcessing:
         cover:
@@ -195,7 +194,7 @@ menu:
 
         - identifier: twitter
           name: Twitter
-          url: https://twitter.com
+          url: https://twitter.com/bobbytsai040
           params:
               icon: brand-twitter
 
