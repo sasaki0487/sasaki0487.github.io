@@ -26,7 +26,7 @@ DefaultContentLanguage: zh-tw
 hasCJKLanguage: true
 
 permalinks:
-    post: /p/:slug/
+    post: /p/:year/:month/:slug/
     page: /:slug/
 
 params:
@@ -34,7 +34,7 @@ params:
         - post
     featuredImageField: image
     rssFullContent: true
-    favicon:
+    favicon: favicon.png
 
     footer:
         since: 1997/02

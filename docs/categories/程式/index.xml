@@ -8,11 +8,11 @@
         <language>en-us</language>
         <lastBuildDate>Tue, 18 Oct 2022 00:00:00 +0000</lastBuildDate><atom:link href="https://sasaki0487.github.io/categories/%E7%A8%8B%E5%BC%8F/index.xml" rel="self" type="application/rss+xml" /><item>
         <title>Windows Ksproperty 使用方法</title>
-        <link>https://sasaki0487.github.io/p/windows-ksproperty/</link>
+        <link>https://sasaki0487.github.io/p/2022/10/windows-ksproperty/</link>
         <pubDate>Tue, 18 Oct 2022 00:00:00 +0000</pubDate>
         
-        <guid>https://sasaki0487.github.io/p/windows-ksproperty/</guid>
-        <description>&lt;img src="https://sasaki0487.github.io/p/windows-ksproperty/ksproperty.png" alt="Featured image of post Windows Ksproperty 使用方法" /&gt;&lt;p&gt;KsProperty 可以用來讀寫相機的屬性，像是亮度、彩度、或是相機自定義的 extension unit 等&lt;br&gt;
+        <guid>https://sasaki0487.github.io/p/2022/10/windows-ksproperty/</guid>
+        <description>&lt;img src="https://sasaki0487.github.io/p/2022/10/windows-ksproperty/ksproperty.png" alt="Featured image of post Windows Ksproperty 使用方法" /&gt;&lt;p&gt;KsProperty 可以用來讀寫相機的屬性，像是亮度、彩度、或是相機自定義的 extension unit 等&lt;br&gt;
 MSDN 上的簡介在此&lt;br&gt;
 &lt;a class=&#34;link&#34; href=&#34;https://learn.microsoft.com/zh-tw/windows-hardware/drivers/ddi/ks/nf-ks-ikscontrol-ksproperty&#34;  target=&#34;_blank&#34; rel=&#34;noopener&#34;
     &gt;IKsControl：：KsProperty (ks.h) - Windows drivers | Microsoft Learn&lt;/a&gt;&lt;/p&gt;
